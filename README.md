@@ -56,4 +56,6 @@ Screenshots may show:
 - Understood how GitHub can be used for frontend deployments  
 - Practiced using version control and GitHub interface  
 - Styled content professionally using external CSS  
-- Gained hands-on experience in publishing a real working website  
+- Gained hands-on experience in publishing a real working website
+
+Visit the deployed website here - https://navyakallam.github.io/Static-Website-with-GitHub-Pages
